@@ -19,3 +19,11 @@
 <div> 
  <a href="https://discord.gg/xb6bPktd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendel-dev-one/Wendel-dev-one/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendel-dev-one/Wendel-dev-one/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wendel-dev-one/Wendel-dev-one/output/pacman-contribution-graph.svg">
+</picture>
+
+###
